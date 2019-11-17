@@ -106,7 +106,7 @@ msgstr "HTML"
 
 #: ../includes/fields/hyperlink.php:58
 msgid "PHP Array"
-msgstr "PHP tablicy"
+msgstr "Tablica PHP"
 
 #: ../includes/fields/loop.php:8
 msgid "Loop"
@@ -222,7 +222,7 @@ msgstr "Użytkownik"
 
 #: ../includes/fields/user.php:31
 msgid "Search users"
-msgstr "Szukaj użytkownicy"
+msgstr "Szukaj użytkowników"
 
 #: ../includes/fields/wysiwyg.php:8
 msgid "Wysiwyg Editor"
@@ -302,7 +302,7 @@ msgstr "Tutuł"
 
 #: ../includes/init.php:269
 msgid "Placement"
-msgstr "Umieszczenie doglebowe nawozów"
+msgstr "Ulokowanie"
 
 #: ../includes/init.php:283 ../templates/meta_box_rules.php:202
 msgid "User Roles"
@@ -314,7 +314,7 @@ msgstr "Wpisy"
 
 #: ../includes/init.php:285
 msgid "Term IDs"
-msgstr "Terminu, identyfikatory"
+msgstr "ID taksonomii"
 
 #: ../includes/init.php:286 ../templates/meta_box_rules.php:290
 msgid "Page Templates"
@@ -322,7 +322,7 @@ msgstr "Szablony stron"
 
 #: ../includes/init.php:287 ../templates/meta_box_rules.php:169
 msgid "Post Formats"
-msgstr "Formaty Pocztowe"
+msgstr "Format postów"
 
 #: ../includes/revision.php:26
 msgid "Post Meta"
@@ -338,7 +338,7 @@ msgstr "Etykieta"
 
 #: ../templates/field_html.php:32
 msgid "The field label that editors will see."
-msgstr "Etykiety pola, że Redakcja będzie widać."
+msgstr "Etykiety pola, którą zobaczy edytujący."
 
 #: ../templates/field_html.php:39
 msgid "Name"
@@ -382,7 +382,7 @@ msgstr "Zamówienie"
 
 #: ../templates/meta_box_extras.php:35
 msgid "The field group with the lowest order will appear first."
-msgstr "Pole grupy z najniższą kolejność pojawi się pierwszy."
+msgstr "Pole grupy z najniższą wartością pojawi się pierwsze."
 
 #: ../templates/meta_box_extras.php:45
 msgid "Position"
@@ -422,7 +422,7 @@ msgstr "Pozostaw puste, aby pominąć tę regułę"
 
 #: ../templates/meta_box_rules.php:258
 msgid "Taxonomy Terms"
-msgstr "Terminy"
+msgstr "Terminy taksonomii"
 
 #: ../templates/page_tools.php:76 ../templates/page_tools.php:97
 msgid "Export"
@@ -438,11 +438,11 @@ msgstr "Reset"
 
 #: ../templates/page_tools.php:122
 msgid "Reset and deactivate."
-msgstr "Badanie i wyłączyć."
+msgstr "Zresetuj i wyłącz."
 
 #: ../templates/page_tools.php:123
 msgid "This will delete all CFS data and deactivate the plugin."
-msgstr "To usunie wszystkie dane CFS i wyłączyć plugin."
+msgstr "To usunie wszystkie dane CFS i wyłączy plugin."
 
 #: ../templates/page_tools.php:124
 msgid "Delete everything"
@@ -458,13 +458,13 @@ msgstr "Usuń wszystko"
 #~ msgstr "Dodatki"
 
 #~ msgid "Post IDs"
-#~ msgstr "Po ID"
+#~ msgstr "ID wpisu"
 
 #~ msgid "Gravity Forms"
 #~ msgstr "Gravity Forms"
 
 #~ msgid "Your Gravity Form and CFS field labels must match exactly"
-#~ msgstr "Etykiety pola formularza grawitacji i CFS musi odpowiadać dokładnie"
+#~ msgstr "Twój Gravity Form i pole CFS musi pasować"
 
 #~ msgid "Learn more"
 #~ msgstr "Dowiedz się wiecej"
@@ -522,7 +522,7 @@ msgstr "Usuń wszystko"
 #~ "This tool will scan your existing custom fields, mapping any applicable "
 #~ "values into Custom Field Suite."
 #~ msgstr ""
-#~ "To narzędzie przeskanuje istenijące włąsne pola i przypisze wartości do "
+#~ "To narzędzie przeskanuje istniejące własne pola i przypisze wartości do "
 #~ "wtyczki Własne pola."
 
 #~ msgid "Synchronize"
@@ -535,13 +535,13 @@ msgstr "Usuń wszystko"
 #~ msgstr "Otwórz"
 
 #~ msgid "Default: Add Row"
-#~ msgstr "Domyśłnie: Dodaj rząd"
+#~ msgstr "Domyślnie: Dodaj rząd"
 
 #~ msgid "click to toggle, drag to re-order"
 #~ msgstr "kliknij aby otworzyć/zamknąć, przeciągnij aby zmienić kolejność"
 
 #~ msgid "Select multiple values?"
-#~ msgstr "Możłiwość wybrania wielu opcji?"
+#~ msgstr "Możliwość wybrania wielu opcji?"
 
 #~ msgid "Read the user guide"
 #~ msgstr "Czytaj instrukcję"
